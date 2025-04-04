@@ -38,7 +38,7 @@ I am comfortable with using new IDEs, command-line tools, and development enviro
 I’m currently studying Computer Science at UC San Diego. I might pursue cyber-security in future.
 
 ## Contact
-Email me at: **kevin@ucsd.edu**   
+Email me at: **kepeoples@ucsd.edu**   
 My slack handle: **@William Peoples**
 
 ## To-Do for Lab 1
